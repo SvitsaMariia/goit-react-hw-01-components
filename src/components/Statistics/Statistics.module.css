@@ -12,7 +12,7 @@
     font-weight: bold;
     text-align: center;
     font-size: 36px;
-    color: rgb(14, 14, 14);
+    color: #0e0e0e;
     margin-bottom: 18px;
     margin: 50px auto;
   }
@@ -33,17 +33,17 @@
     text-align: center;
     justify-content: space-between;
     padding: 25px 25px;
-    border: 1px solid white;
+    border: 1px solid #000;
   }
   
   .label {
     font-weight: bold;
-    color: white;
+    color: #ffffff;
     font-size: 22px;
   }
   
   .percentage {
     font-weight: bold;
-    color: white;
+    color: ;
     font-size: 22px;
   }

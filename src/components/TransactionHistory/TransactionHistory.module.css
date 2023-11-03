@@ -1,12 +1,12 @@
 .transactionHistory {
     margin: 0 auto;
-    width: 100%;
+    width: 50%;
     margin-bottom: 20px;
     border: 5px solid #ffffff;
     border-top: 5px solid #ffffff;
     border-bottom: 3px solid #ffffff;
     border-collapse: collapse;
-    outline: 3px solid #ffd300;
+    outline: 3px solid #bdb76b;
     font-size: 15px;
     background: #ffffff;
   }
@@ -14,12 +14,12 @@
   .transactionHistory th {
     font-weight: bold;
     padding: 10px;
-    background: #ffd300;
+    background: #bdb76b;
     border: none;
     text-align: left;
     font-size: 16px;
     border-top: 3px solid #ffffff;
-    border-bottom: 3px solid #ffd300;
+    border-bottom: 3px solid #bdb76b;
   }
   
   .transactionHistory td {
