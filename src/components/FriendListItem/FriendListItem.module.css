@@ -1,0 +1,35 @@
+.item {
+    display: flex;
+    gap: 24px;
+    padding: 10px 25px;
+    align-items: center;
+    border: 1px black solid;
+    border-radius: 8px;
+    background-color: #ffffff;
+  }
+  
+  .status {
+    display: block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: rgb(249, 200, 200);
+  }
+  
+  .online {
+    background-color: rgb(11, 36, 40);
+  }
+  
+  .offline {
+    background-color: rgb(223, 98, 98);
+  }
+  
+  .avatar {
+    width: 80px;
+  }
+  
+  .name {
+    font-weight: 600;
+    color: rgb(14, 14, 14);
+    font-size: 32px;
+  }
