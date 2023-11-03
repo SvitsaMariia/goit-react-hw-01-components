@@ -17,11 +17,11 @@
   }
   
   .online {
-    background-color: rgb(11, 36, 40);
+    background-color: rgb(0, 169, 53);
   }
   
   .offline {
-    background-color: rgb(223, 98, 98);
+    background-color: rgb(244, 0, 0);
   }
   
   .avatar {
